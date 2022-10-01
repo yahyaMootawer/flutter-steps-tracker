@@ -32,3 +32,12 @@ Upon first installation the app should ask for their name.
 
 7. Rewards are paid with health points, feedback should be given upon all cases: if the redemption can happen, show a confirmation dialog, if it cannot due to a low number of points, show an error message stating clearly what’s wrong.
 
+
+## Screenshots
+
+
+
+[![Screenshot-1664647375.png](https://i.postimg.cc/sfLzxhdg/Screenshot-1664647375.png)](https://postimg.cc/gr3QBr2C) [![Screenshot-1664647417.png](https://i.postimg.cc/cLyNMGJq/Screenshot-1664647417.png)](https://postimg.cc/crmj0jYT)[![Screenshot-1664647454.png](https://i.postimg.cc/Hs7gykd4/Screenshot-1664647454.png)](https://postimg.cc/7fDdvDCf)
+[![Screenshot-1664647442.png](https://i.postimg.cc/q7QVTtx0/Screenshot-1664647442.png)](https://postimg.cc/NyyP8jnP)
+
+[![Screenshot-1664647437.png](https://i.postimg.cc/xCFwXWZ4/Screenshot-1664647437.png)](https://postimg.cc/XGdHhD4f) [![Screenshot-1664647449.png](https://i.postimg.cc/QMjGwg50/Screenshot-1664647449.png)](https://postimg.cc/219KBZ0Z)[![Screenshot-1664647457.png](https://i.postimg.cc/266p8z0W/Screenshot-1664647457.png)](https://postimg.cc/qt9D1dVB)[![Screenshot-1664647454.png](https://i.postimg.cc/Hs7gykd4/Screenshot-1664647454.png)](https://postimg.cc/7fDdvDCf)
