@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603340541067",
+    "project_id": "flutter-steps-tracker-1f6e5",
+    "storage_bucket": "flutter-steps-tracker-1f6e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603340541067:android:3dc6919d21f47a3b89588e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_steps_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603340541067-gvr52ojhs14q6jm32tr211tkbcgh84op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiiTh-FvKSLrjDPlW7aATj0di6sPGFXK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603340541067-gvr52ojhs14q6jm32tr211tkbcgh84op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
